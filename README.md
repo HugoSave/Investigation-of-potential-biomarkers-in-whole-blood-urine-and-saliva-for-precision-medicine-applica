@@ -5,3 +5,5 @@ proteinGroups_saliva-urine-blood.txt is the data provided after MaxQuant analysi
 
 summaryTableBSU.xlsx is a summary of found biomarkers and their accurance in patients and samples.
 
+manualy_reformated_FDA_approved_biomarkers.xlsx and manualy_reformated_non_FDA_approved_biomarkers.xlsx are the biomarker lists that were used for comparison.
+
