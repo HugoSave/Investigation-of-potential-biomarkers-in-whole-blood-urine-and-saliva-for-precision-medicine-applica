@@ -7,3 +7,4 @@ summaryTableBSU.xlsx is a summary of found biomarkers and their accurance in pat
 
 manualy_reformated_FDA_approved_biomarkers.xlsx and manualy_reformated_non_FDA_approved_biomarkers.xlsx are the biomarker lists that were used for comparison.
 
+biomarkerAnalysis.R provides the messy code used for the different graphics and tables shown in the paper
